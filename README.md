@@ -93,6 +93,8 @@
 </div>
 
 
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=szanislaw)](https://git.io/streak-stats)
+
 
 ---
 
@@ -101,9 +103,9 @@
   <p><img align="center" 
      <img width="600" height="200" src="https://github-readme-stats.vercel.app/api/top-langs?username=szanislaw&show_icons=true&locale=en&layout=compact" alt="szanislaw" /></p>
   </p>
-  <p><img align="center" 
+<!--   <p><img align="center" 
      <img width="600" height="200" src="https://github-readme-streak-stats.herokuapp.com/?user=szanislaw" alt="szanislaw" />
-  </p>
+  </p> -->
 </div>
 
 ---
