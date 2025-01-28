@@ -11,6 +11,15 @@
 </p>
 
 ---
+<h3 align="left">🎵 Now Playing:</h3>
+<div align="center">
+  <a href="https://github.com/kittinan/spotify-github-profile">
+    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=szanislaw&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false" alt="Spotify GitHub Profile" />
+  </a>
+</div>
+
+
+---
 
 <h3 align="left">🛠️ Languages and Tools:</h3>
 <div>
@@ -87,13 +96,14 @@
 
 ---
 
+
 <h3 align="left">📊 GitHub Stats:</h3>
 <div align="center">
-  <p>
-    <img width="500" src="https://github-readme-stats.vercel.app/api/top-langs?username=ilenhanako&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
+  <p><img align="center" 
+     <img width="600" height="200" src="https://github-readme-stats.vercel.app/api/top-langs?username=ilenhanako&show_icons=true&locale=en&layout=compact" alt="szanislaw" /></p>
   </p>
-  <p>
-    <img width="500" src="https://github-readme-streak-stats.herokuapp.com/?user=ilenhanako" alt="GitHub Streak" />
+  <p><img align="center" 
+     <img width="600" height="200" src="https://github-readme-streak-stats.herokuapp.com/?user=ilenhanako&" alt="szanislaw" /></p>
   </p>
 </div>
 
@@ -101,5 +111,5 @@
 
 <h3 align="center">🐍 Watch the Snake Eat My Contributions:</h3>
 <p align="center">
-  <img src="assets/github-snake.svg" alt="Snake animation" />
+ <img width="1000" src="assets/github-snake.svg" alt="snake"/>
 </p>
