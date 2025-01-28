@@ -100,7 +100,7 @@
 <h3 align="left">📊 GitHub Stats:</h3>
 <div align="center">
   <p><img align="center" 
-     <img width="600" height="200" src="https://github-readme-stats.vercel.app/api/top-langs?username=ilenhanako&show_icons=true&locale=en&layout=compact" alt="szanislaw" /></p>
+     <img width="600" height="200" src="https://github-readme-stats.vercel.app/api/top-langs?username=szanislaw&show_icons=true&locale=en&layout=compact" alt="szanislaw" /></p>
   </p>
   <p><img align="center" 
      <img width="600" height="200" src="https://github-readme-streak-stats.herokuapp.com/?user=ilenhanako&" alt="szanislaw" /></p>
