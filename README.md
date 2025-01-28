@@ -111,5 +111,5 @@
 
 <h3 align="center">🐍 Watch the Snake Eat My Contributions:</h3>
 <p align="center">
- <img width="1000" src="assets/github-snake.svg" alt="snake"/>
+ <img width="1000" src="github-snake.svg" alt="snake"/>
 </p>
