@@ -11,11 +11,6 @@
 - 🔍 [POFMA NLP Classifier](https://github.com/szanislaw/pofma-sentiment-analysis): Multi-label BERT classifier identifying actors involved in Singapore’s POFMA notices.
 - 🎧 [Audio Deepfake Detector](https://github.com/szanislaw/htx-dfa-prosodicxlsr): Combines XLS-R embeddings and prosodic features to detect spoofed voices in Singaporean English.
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=szanislaw&repo=pofma-sentiment-analysis" />
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=szanislaw&repo=htx-dfa-prosodicxlsr" />
-</p>
-
 
 ---
 
