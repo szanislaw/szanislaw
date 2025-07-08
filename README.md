@@ -1,5 +1,13 @@
 <h1 align="center">Hi 👋, I'm Shawn</h1>
-<h3 align="center">A Final Year Computer Science Undergraduate from Singapore</h3>
+<h3 align="center">A Final Year Computer Science Undergraduate from Singapore. 🎓 I'm currently focused on machine learning and language technologies, with hands-on experience in NLP, model deployment, and research-based projects.
+</h3>
+
+
+### 🚀 Featured Projects
+
+- 🔍 [POFMA NLP Classifier](https://github.com/szanislaw/pofma-classifier): Multi-label BERT classifier identifying actors involved in Singapore’s POFMA notices.
+- 🎧 [Audio Deepfake Detector](https://github.com/szanislaw/audio-deepfake-detector): Combines XLS-R embeddings and prosodic features to detect spoofed voices in Singaporean English.
+
 
 ---
 
