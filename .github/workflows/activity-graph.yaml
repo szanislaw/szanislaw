@@ -8,6 +8,8 @@ on:
 jobs:
   build:
     runs-on: ubuntu-latest
+    permissions:
+      contents: write       # <-- this is crucial for commits
     steps:
       - uses: actions/checkout@v3
 
