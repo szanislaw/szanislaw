@@ -21,7 +21,7 @@ I'm an **AI Engineer** based in Singapore, building production-grade AI systems 
 - 🔬 Former **Data Scientist (Intern)** @ [HTX](https://www.htx.gov.sg/) — audio deepfake detection R&D
 - 🎓 **B.Comp (Hons) Computer Science** — Nanyang Technological University
 - 🌍 **Semester Exchange** — University of Stuttgart, Germany
-- 🗣️ English · Mandarin · Cantonese · German (Working Proficiency)
+- 🗣️ English · Mandarin · Cantonese · German
 
 ---
 
