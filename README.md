@@ -22,7 +22,6 @@ I'm an **AI Engineer** based in Singapore, building production-grade AI systems 
 - 🎓 **B.Comp (Hons) Computer Science** — Nanyang Technological University
 - 🌍 **Semester Exchange** — University of Stuttgart, Germany
 - 🗣️ English · Mandarin · Cantonese · German
-
 ---
 
 ## 🚀 Featured Projects
@@ -93,6 +92,19 @@ Combines **XLS-R** embeddings with **Parselmouth-based prosodic features** to de
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 
 ---
+
+## ⚽ Beyond the Code
+
+When I'm not building AI systems, you'll find me:
+
+🎸 **Playing the Guitar**<br>
+My go-to way to unwind and stay creative — power chords and maximum gain are mandatory.
+
+⚽ **Playing and Watching Football**<br>
+A lifelong BVB supporter, which has taught me more about resilience, disappointment, and debugging under pressure than any bootcamp ever could.
+
+🌐 **Learning Languages**<br>
+Currently collecting languages — German, Spanish, and Italian on the roster in order of proficiency. Turns out obsessing over how humans encode meaning has some professional applications too.
 
 ## 📊 GitHub Stats
 
