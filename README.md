@@ -15,12 +15,16 @@
 
 ## 👋 About Me
 
-I'm an **AI Engineer** based in Singapore, building production-grade AI systems at the intersection of speech, language, and intelligent automation. I specialise in **LLM pipelines**, **ASR/TTS concierge systems**, **NL-to-SQL agents**, and **transformer fine-tuning** — shipping systems that go from research prototype to reliable deployment.
+I work at the intersection of **AI, solution architecture, and product innovation**, helping organisations transform emerging AI capabilities into production-ready solutions.
 
-- 🏢 **AI Engineer** @ [FCS Solutions](https://www.fcshub.com/) — building ASR→LLM→TTS pipelines and enterprise NL-to-SQL agents
-- 🔬 Former **Data Scientist (Intern)** @ [HTX](https://www.htx.gov.sg/) — audio deepfake detection R&D
-- 🎓 **B.Comp (Hons) Computer Science** — Nanyang Technological University
-- 🌍 **Semester Exchange** — University of Stuttgart, Germany
+My background spans the full AI lifecycle — from research and model development to enterprise deployment. Previously, I worked as a **Generative AI Engineer at FCS Solutions**, building voice AI pipelines, NL-to-SQL agents, and LLM-powered enterprise workflows, and as a **Data Scientist & Machine Learning Engineer at HTX**, researching audio deepfake detection and speech AI systems.
+
+Currently at **BeyondEdge**, I focus on AI solution architecture, product delivery, and innovation initiatives, bridging business needs with technical implementation to drive real-world impact.
+
+- 🏢 AI Solution Architecture & Innovation @ BeyondEdge
+- 🏢 Former Generative AI Engineer @ FCS Solutions
+- 🔬 Former Data Scientist & Machine Learning Engineer @ HTX
+- 🎓 B.Comp (Hons) Computer Science with Minor in Modern Languages — NTU
 - 🗣️ English · Mandarin · Cantonese · German
 ---
 
