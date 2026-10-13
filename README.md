@@ -14,9 +14,11 @@
 
 ## 👋 About Me
 
-I turn emerging AI capabilities into **production-ready solutions**, working across AI, solution architecture, and product innovation.
+I work at the intersection of **AI, solution architecture, and product innovation**, helping organisations transform emerging AI capabilities into production-ready solutions.
 
-My background spans the full AI lifecycle, from research and model development to enterprise deployment: voice AI pipelines, NL-to-SQL agents, LLM-powered workflows, and audio deepfake detection.
+My background spans the full AI lifecycle — from research and model development to enterprise deployment. Previously, I worked as a **Generative AI Engineer at FCS Solutions**, building voice AI pipelines, NL-to-SQL agents, and LLM-powered enterprise workflows, and as a **Data Scientist & Machine Learning Engineer at HTX**, researching audio deepfake detection and speech AI systems.
+
+Currently at **BeyondEdge**, I focus on AI solution architecture, product delivery, and innovation initiatives, bridging business needs with technical implementation to drive real-world impact.
 
 - 🏢 AI Solution Architecture & Innovation @ BeyondEdge
 - 🏢 Former Generative AI Engineer @ FCS Solutions
