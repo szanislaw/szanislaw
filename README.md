@@ -2,10 +2,9 @@
 
 # Shawn Yap Zheng Yi
 
-**AI Engineer · NLP & Speech · LLM Systems**
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=600&lines=AI+Engineer;NLP+%26+Speech;LLM+Systems)](https://github.com/szanislaw)
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/shawn-yap-zheng-yi)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/szanislaw)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shawnyzy1@gmail.com)
 ![Profile Views](https://komarev.com/ghpvc/?username=szanislaw&label=Profile%20views&color=0e75b6&style=for-the-badge)
 
@@ -15,17 +14,16 @@
 
 ## 👋 About Me
 
-I work at the intersection of **AI, solution architecture, and product innovation**, helping organisations transform emerging AI capabilities into production-ready solutions.
+I turn emerging AI capabilities into **production-ready solutions**, working across AI, solution architecture, and product innovation.
 
-My background spans the full AI lifecycle — from research and model development to enterprise deployment. Previously, I worked as a **Generative AI Engineer at FCS Solutions**, building voice AI pipelines, NL-to-SQL agents, and LLM-powered enterprise workflows, and as a **Data Scientist & Machine Learning Engineer at HTX**, researching audio deepfake detection and speech AI systems.
-
-Currently at **BeyondEdge**, I focus on AI solution architecture, product delivery, and innovation initiatives, bridging business needs with technical implementation to drive real-world impact.
+My background spans the full AI lifecycle, from research and model development to enterprise deployment: voice AI pipelines, NL-to-SQL agents, LLM-powered workflows, and audio deepfake detection.
 
 - 🏢 AI Solution Architecture & Innovation @ BeyondEdge
 - 🏢 Former Generative AI Engineer @ FCS Solutions
 - 🔬 Former Data Scientist & Machine Learning Engineer @ HTX
 - 🎓 B.Comp (Hons) Computer Science with Minor in Modern Languages — NTU
-- 🗣️ English · Mandarin · Cantonese · German
+- 🗣️ English · Mandarin · Cantonese · German · learning Spanish & Italian
+
 ---
 
 ## 🚀 Featured Projects
@@ -97,27 +95,14 @@ Combines **XLS-R** embeddings with **Parselmouth-based prosodic features** to de
 
 ---
 
-## ⚽ Beyond the Code
-
-When I'm not building AI systems, you'll find me:
-
-🎸 **Playing the Guitar**<br>
-My go-to way to unwind and stay creative — power chords and maximum gain are mandatory.
-
-⚽ **Playing and Watching Football**<br>
-A lifelong BVB supporter, which has taught me more about resilience, disappointment, and debugging under pressure than any bootcamp ever could.
-
-🌐 **Learning Languages**<br>
-Currently collecting languages — German, Spanish, and Italian on the roster in order of proficiency. Turns out obsessing over how humans encode meaning has some professional applications too.
-
 ## 📊 GitHub Stats
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=szanislaw&show_icons=true&theme=radical&hide_border=true" width="400"/>
-<img src="https://github-readme-streak-stats.herokuapp.com?user=szanislaw&theme=radical&hide_border=true" width="430"/>
+<img src="https://github-readme-stats.vercel.app/api?username=szanislaw&show_icons=true&theme=radical&hide_border=true" width="400" alt="GitHub stats"/>
+<img src="https://github-readme-streak-stats.herokuapp.com?user=szanislaw&theme=radical&hide_border=true" width="430" alt="GitHub streak"/>
 
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=szanislaw&theme=react-dark&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=szanislaw&theme=redical&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 </div>
 
@@ -130,6 +115,21 @@ Currently collecting languages — German, Spanish, and Italian on the roster in
 [![Spotify](https://spotify-github-profile.kittinanx.com/api/view?uid=szanislaw&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false)](https://github.com/kittinan/spotify-github-profile)
 
 </div>
+
+---
+
+## ⚽ Beyond the Code
+
+When I'm not building AI systems, you'll find me:
+
+🎸 **Playing the Guitar**<br>
+My go-to way to unwind and stay creative — power chords and maximum gain are mandatory.
+
+⚽ **Playing and Watching Football**<br>
+A lifelong BVB supporter, which has taught me more about resilience, disappointment, and debugging under pressure than any bootcamp ever could.
+
+🌐 **Learning Languages**<br>
+Currently collecting languages — German, Spanish, and Italian on the roster in order of proficiency. Turns out obsessing over how humans encode meaning has some professional applications too.
 
 ---
 
