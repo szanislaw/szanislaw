@@ -101,10 +101,12 @@ Combines **XLS-R** embeddings with **Parselmouth-based prosodic features** to de
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=szanislaw&show_icons=true&theme=radical&hide_border=true" width="400" alt="GitHub stats"/>
-<img src="https://github-readme-streak-stats.herokuapp.com?user=szanislaw&theme=radical&hide_border=true" width="430" alt="GitHub streak"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=szanislaw&theme=radical" width="830" alt="GitHub profile details"/>
 
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=szanislaw&theme=redical&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=szanislaw&theme=radical" width="410" alt="GitHub stats"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=szanislaw&theme=radical" width="410" alt="Most committed languages"/>
+
+<img src="https://streak-stats.demolab.com?user=szanislaw&theme=radical&hide_border=true" width="830" alt="GitHub streak"/>
 
 </div>
 
